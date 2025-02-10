@@ -690,7 +690,7 @@ const App = () => {
         </div>
       )}
 
-      {/* Додаємо футер */}
+   
       <div className="footer">
         <div className="footer-section">
           <strong>SHARE</strong>
